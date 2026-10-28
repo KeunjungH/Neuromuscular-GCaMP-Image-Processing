@@ -1,5 +1,5 @@
 # Neuromuscular-GCaMP-Image-Processing
-Custom ImageJ/Fiji macros for preprocessing time-series TIFF images and multichannel fluorescence images acquired from human iPSC-derived motor neuron–skeletal myogenic coculture experiments.
+The custom ImageJ/Fiji macro Pre-Processing Tiff Stacks v2.ijm was developed by Annika Naveen for preprocessing fluorescence imaging data from human iPSC-derived neuromuscular coculture experiments.
 
 This macros was developed to facilitate image preprocessing for downstream analysis of neuromuscular activity and structural organization.
 
